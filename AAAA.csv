@@ -19,21 +19,21 @@
 "Bulgaria",18.2,0.182,"BGR"
 "Burkina Faso",43.5,0.435,"BFA"
 "Burundi",72.9,0.729,"BDI"
-"C<f4>te d'Ivoire",47.9,0.479,NA
+"Côte d'Ivoire",47.9,0.479,"CIV"
 "Cambodia",50.4,0.504,"KHM"
 "Cameroon",36.1,0.361,"CMR"
 "Canada",7.8,0.078,"CAN"
 "Central African Republic",79.6,0.796,"CAF"
 "Chad",73.5,0.735,"TCD"
 "Chile",10.3,0.103,"CHL"
-"China (People's Republic of)",32.7,0.327,NA
+"China (People's Republic of)",32.7,0.327,"CHN"
 "Colombia",11.1,0.111,"COL"
 "Congo",54.2,0.542,"COG"
 "Costa Rica",3.5,0.035,"CRI"
 "Croatia",4.4,0.044,"HRV"
 "Cuba",3.9,0.039,"CUB"
 "Cyprus",10.5,0.105,"CYP"
-"Democratic Republic of the Congo",74.8,0.748,NA
+"Democratic Republic of the Congo",74.8,0.748,"COD"
 "Denmark",0,0,"DNK"
 "Dominican Republic",2,0.02,"DOM"
 "Ecuador",25.2,0.252,"ECU"
@@ -58,7 +58,7 @@
 "Guinea-Bissau",41.8,0.418,"GNB"
 "Haiti",58.9,0.589,"HTI"
 "Honduras",12.4,0.124,"HND"
-"Hong Kong, China",26,0.26,NA
+"Hong Kong, China",26,0.26,"HKG"
 "Hungary",8.7,0.087,"HUN"
 "India",22.1,0.221,"IND"
 "Indonesia",34.5,0.345,"IDN"
@@ -101,11 +101,11 @@
 "Nicaragua",13.7,0.137,"NIC"
 "Niger",59.6,0.596,"NER"
 "Nigeria",34.7,0.347,"NGA"
-"North Macedonia",14.5,0.145,NA
+"North Macedonia",14.5,0.145,"MKD"
 "Norway",9.9,0.099,"NOR"
 "Oman",7.9,0.079,"OMN"
 "Pakistan",42.2,0.422,"PAK"
-"Palestinian Authority or West Bank and Gaza Strip",38.7,0.387,NA
+"Palestinian Authority or West Bank and Gaza Strip",38.7,0.387,"PSE"
 "Panama",5.7,0.057,"PAN"
 "Paraguay",22.9,0.229,"PRY"
 "Peru",32.2,0.322,"PER"
