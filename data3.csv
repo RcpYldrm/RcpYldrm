@@ -1,0 +1,148 @@
+name,total,percent,Code
+Denmark,0,0,DK
+Malta,0,0,MT
+Ireland,1,0.01,IE
+Uruguay,1.5,1.5,UY
+Belgium,2,0.02,BE
+Dominican Republic,2,0.02,DO
+Greece,2,0.02,GR
+Latvia,2,0.02,LV
+Lithuania,2,0.02,LT
+Luxembourg,2,0.02,LU
+Portugal,2,0.02,PT
+Montenegro,2.7,0.027,ME
+Ukraine,2.9,2.9,UA
+Austria,3,0.03,AT
+Australia,3.2,0.032,AU
+Costa Rica,3.5,0.035,CR
+Serbia,3.8,3.8,RS
+Cuba,3.9,0.039,CU
+Belarus,4.1,0.041,BY
+Croatia,4.4,0.044,HR
+Bosnia and Herzegovina,4.8,0.048,BA
+Jamaica,4.9,0.049,JM
+Mexico,5,0.05,MX
+Italy,5.3,0.053,IT
+Panama,5.7,0.057,PA
+Netherlands,6.4,0.064,NL
+France,6.6,0.066,FR
+Qatar,6.6,0.066,QA
+Romania,7.5,0.075,RO
+El Salvador,7.7,0.077,SV
+New Zealand,7.7,0.077,NZ
+Canada,7.8,0.078,CA
+Oman,7.9,0.079,OM
+Poland,7.9,0.079,PL
+Brazil,8.5,0.085,BR
+Georgia,8.6,0.086,GE
+Thailand,8.6,8.6,TH
+Hungary,8.7,0.087,HU
+Japan,8.9,0.089,JP
+Spain,9.6,9.6,ES
+Norway,9.9,0.099,NO
+Trinidad and Tobago,9.9,9.9,TT
+Armenia,10.1,0.101,AM
+Mongolia,10.1,0.101,MN
+Sweden,10.2,10.2,SE
+United Kingdom,10.2,10.2,GB
+Chile,10.3,0.103,CL
+Cyprus,10.5,0.105,CY
+Guatemala,11,0.11,GT
+United States,11,11,US
+Colombia,11.1,0.111,CO
+Finland,11.2,0.112,FI
+Argentina,11.6,0.116,AR
+Honduras,12.4,0.124,HN
+Philippines,12.9,0.129,PH
+Turkey,13.3,13.3,TR
+Nicaragua,13.7,0.137,NI
+Kazakhstan,14.2,0.142,KZ
+North Macedonia,14.5,0.145,
+Switzerland,15.2,15.2,CH
+Slovenia,15.8,15.8,SI
+Bolivia,16.1,0.161,
+Malawi,16.3,0.163,MW
+Estonia,16.9,0.169,EE
+Jordan,18,0.18,JO
+Bulgaria,18.2,0.182,BG
+Korea,18.4,0.184,
+Tunisia,18.6,18.6,TN
+Germany,19.6,0.196,DE
+Eswatini,19.9,0.199,
+Iran,21,0.21,
+Morocco,22,0.22,MA
+India,22.1,0.221,IN
+Mozambique,22.9,0.229,MZ
+Paraguay,22.9,0.229,PY
+Russian Federation,23.3,0.233,RU
+Libya,25.1,0.251,LY
+Angola,25.2,0.252,AO
+Ecuador,25.2,0.252,EC
+"Hong Kong, China",26,0.26,
+Turkmenistan,26.3,26.3,TM
+Mauritania,26.6,0.266,MR
+Azerbaijan,28,0.28,AZ
+Namibia,28.2,0.282,
+Viet Nam,28.2,28.2,VN
+Bangladesh,28.3,0.283,BD
+Ghana,28.3,0.283,GH
+Togo,28.7,28.7,TG
+Albania,29.8,0.298,AL
+Peru,32.2,0.322,PE
+China (People's Republic of),32.7,0.327,
+Kyrgyzstan,32.8,0.328,KG
+Sudan,34,34,SD
+Indonesia,34.5,0.345,ID
+Nigeria,34.7,0.347,NG
+Egypt,35.7,0.357,EG
+Benin,36,0.36,BJ
+Cameroon,36.1,0.361,CM
+Kuwait,37,0.37,KW
+Lesotho,37.1,0.371,LS
+Palestinian Authority or West Bank and Gaza Strip,38.7,0.387,
+Zimbabwe,38.7,38.7,ZW
+Singapore,40.5,40.5,SG
+Rwanda,41.4,0.414,RW
+Malaysia,41.5,0.415,MY
+Uzbekistan,41.5,41.5,UZ
+Guinea-Bissau,41.8,0.418,GW
+Kenya,41.8,0.418,KE
+Pakistan,42.2,0.422,PK
+Liberia,42.5,0.425,LR
+Fiji,42.6,0.426,FJ
+Nepal,42.9,0.429,NP
+Burkina Faso,43.5,0.435,BF
+Lebanon,43.6,0.436,LB
+Madagascar,45.2,0.452,MG
+Zambia,46.9,46.9,ZM
+Côte d'Ivoire,47.9,0.479,CI
+Algeria,48.2,0.482,DZ
+Yemen,48.7,48.7,YE
+Gabon,50.2,0.502,GA
+Cambodia,50.4,0.504,KH
+Myanmar,51.2,0.512,MM
+Eritrea,51.4,0.514,ER
+Equatorial Guinea,52.6,0.526,GQ
+Sri Lanka,53.2,53.2,LK
+Congo,54.2,0.542,CG
+Iraq,54.8,0.548,IQ
+Senegal,56.5,56.5,SN
+Tanzania,58,58,
+Lao People's Democratic Republic,58.2,0.582,LA
+Uganda,58.3,58.3,UG
+Gambia,58.4,0.584,GM
+Haiti,58.9,0.589,HT
+Niger,59.6,0.596,NE
+Tajikistan,59.6,59.6,TJ
+South Africa,61.2,61.2,ZA
+Sierra Leone,62.8,62.8,SL
+Ethiopia,63,0.63,ET
+Bhutan,68.4,0.684,BT
+Mali,72.6,0.726,ML
+Burundi,72.9,0.729,BI
+Chad,73.5,0.735,TD
+Democratic Republic of the Congo,74.8,0.748,
+Central African Republic,79.6,0.796,CF
+Afghanistan,80.2,0.802,AF
+Timor-Leste,86.2,86.2,TL
+Guinea,92.1,0.921,GN
